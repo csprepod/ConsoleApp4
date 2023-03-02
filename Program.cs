@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             //more comment
             //comment2
+            //comment3
         }
     }
 }
